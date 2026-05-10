@@ -1,2 +1,2 @@
-Welcome to shopping app - EC2
+Welcome to shopping app - LOCAL + EC2
 car feature added
