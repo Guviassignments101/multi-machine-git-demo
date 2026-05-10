@@ -1,2 +1,2 @@
-Welcome to shopping app
+Welcome to shopping app - LOCAL
 car feature added
